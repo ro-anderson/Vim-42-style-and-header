@@ -22,7 +22,7 @@ How to:
       
       >vim --version
       
-       user vimrc file: "$HOME/.vimrc"
+       >user vimrc file: "$HOME/.vimrc"
        
   2) in the user vimrc file path, replace/create the .vimrc by the attached file.
 
